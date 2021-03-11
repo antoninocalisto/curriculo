@@ -12,15 +12,15 @@ style: styles-6
 
 
 #Profile information
-name: João Lucas
-tagline: Engenheiro de Software
+name: Antonino Calisto
+tagline: Mestre em Engenharia Elétrica com ênfase em Ciências da Computação
 pic: profile.jpg
-location: Juiz de Fora, MG
+location: São luís, MA, BR
 
 #sidebar links
-email: joaolucasgtr@gmail.com
+email: antuninosantos@gmail.com
 website: antonino.github.io
-linkedin: joaolucasgtr
-github: joaolucasgtr
+linkedin: antoninocalisto
+github: antoninocalisto
 
 #Update all the sections by editing the files inside _includes folder.
