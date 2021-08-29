@@ -60,10 +60,10 @@ Para visualizar o site publicado, [**Clique aqui**](https://antoninocalisto.gith
 
 👤 **Antonino Calisto**
 
-* Website: https://www.linkedin.com/in/antonino-calisto-08991270/
+* Website: https://antoninocalisto.github.io/curriculo/
 * Twitter: [@calistoantonino](https://twitter.com/calistoantonino)
 * Github: [@antoninocalisto](https://github.com/antoninocalisto)
-* LinkedIn: [@Antonino Calisto](https://linkedin.com/in/Antonino Calisto)
+* LinkedIn: [@Antonino Calisto](https://linkedin.com/in/antonino-calisto-08991270/)
 
 ## Show your support
 
