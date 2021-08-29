@@ -20,21 +20,39 @@
 
 ## Install
 
+
+
+Primeiro deve-se instalar clonar o projeto (aqui utilizamos o protocolo HTTP, mas se preferir pode copiar o link do protocolo SSH do projeto): 
+
 ```sh
-yarn install
+git clone https://github.com/antoninocalisto/curriculo.git
+```
+
+2. Agora deve ser instalado a ferramenta 'yarn' (antes disso você deve instalar o 'Node') como instalação local apenas (-D):
+
+```sh
+npm install  yarn -D
+```
+
+3. Deve-se instalar as dependencias do projeto por meio do comando abaixo
+```sh
+yarn install .
+```
+
+4. Faça as alterações e depois suba para seu repositório:
+```sh
+git add .
+git commit -m "Baixando as dependencias para possíveis alterações futuras e configurando para minhas informações"
+git push
 ```
 
 ## Usage
 
 ```sh
-deve-se instalar a ferramenta 'yarn' e em seguinda executar o comando 'yarn install .' sem as aspas 
+Deve-se configurar o link para o username (no meu exemplo é antoninocalisto) do seu github como mostrado no URL do ##Run tests
 ```
 
 ## Run tests
-
-```sh
-yarn install .
-```
 
 Para visualizar o site publicado, [**Clique aqui**](https://antoninocalisto.github.io/curriculo/)
 
@@ -57,4 +75,3 @@ Copyright © 2021 [Antonino Calisto](https://github.com/antoninocalisto).<br />
 This project is [Livre](Livre) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
